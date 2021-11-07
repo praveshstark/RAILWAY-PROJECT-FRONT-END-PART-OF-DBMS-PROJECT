@@ -113,3 +113,9 @@ body{
     margin-left: 30px;
     font-weight: bold;
   }
+
+
+section{
+  color: #fff;
+  border: 2px;
+}
